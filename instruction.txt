@@ -1,0 +1,20 @@
+Before running project
+ 
+install nltk package using following commands in the command prompt/terminal
+1. pip install nltk
+2. then open python in the command prompt/terminal
+3. type following command
+   3.1. import nltk
+   3.2. nltk.download('punkt')
+
+
+Steps in NLP mini project
+
+1. open index.py
+2. click on search option
+3. click on the link given to type the words in hindi
+4. copy the words you typed in the query entry field
+5. do various search options 
+6. INVERTED INDEX button gives the inverted index of the words used in the documents 
+
+
