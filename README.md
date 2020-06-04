@@ -25,7 +25,7 @@ The project works on the basis of **Inverted Indexing**
 * Now create a python virtual environment  <br>
 **creating an virtual environment using conda - `conda create -n <any_apt_name>`**
 * Now activate the virtual environment <br>
-**for conda - `conda activate <any_apt_name>` **
+**for conda - `conda activate <any_apt_name>`**
 * Installing the required package 
 `pip install -r requirements.txt`
 * then type following commands
